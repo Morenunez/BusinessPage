@@ -1,0 +1,76 @@
+/* Utility Classes */
+.display-1 {
+    font-size: 50px;
+  }
+  
+  /* Navbar */
+  #navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 100%;
+  }
+  
+  #navbar .logo {
+    float: none;
+    text-align: center;
+  }
+  
+  /* Showcase */
+  #showcase {
+    height: 100%;
+    padding: 50px 0;
+  }
+  
+  .showcase-title {
+    float: none;
+    width: 100%;
+    padding-right: 0px;
+  }
+  
+  .showcase-title p {
+    padding: 10px 0;
+  }
+  
+  .showcase-img {
+    float: none;
+    width: 100%;
+    padding: 40px;
+  }
+  
+  /* Features */
+  #features {
+    padding: 50px 0;
+  }
+  
+  .features-card {
+    padding-top: 30px;
+  }
+  
+  .card {
+    float: none;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  /* Testimonial */
+  #testimonial {
+    padding: 50px 0px;
+  }
+  
+  #testimonial h4 {
+    padding-bottom: 20px;
+  }
+  
+  #testimonial p {
+    width: 100%;
+  }
+  
+  /* Contact */
+  #contact {
+    padding: 50px 0;
+  }
+  
+  #contact form {
+    padding-top: 40px;
+    width: 90%;
+  }
